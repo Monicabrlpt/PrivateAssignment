@@ -29,4 +29,3 @@ Library : Glide & Volley
 ![img_8766](https://user-images.githubusercontent.com/22133379/26871107-f10f07de-4b26-11e7-92d8-8cb680adad81.JPG) <br>
 ![img_8767](https://user-images.githubusercontent.com/22133379/26871109-f111fc8c-4b26-11e7-8bef-4690a6d010f5.JPG) <br>
 ![img_8768](https://user-images.githubusercontent.com/22133379/26871108-f10f5a2c-4b26-11e7-89ea-1b7d0953932f.JPG) <br>
-![img_8769](https://user-images.githubusercontent.com/22133379/26871110-f13d99aa-4b26-11e7-85c2-04e06d1eda95.jpg) <br>
