@@ -23,10 +23,10 @@ Jenis Navigasi : Navigation Drawer Activity
 Library : Glide & Volley
 <br>
 <h2> Screenshot </h2>
-![img_8769](https://user-images.githubusercontent.com/22133379/26870906-5102c62c-4b26-11e7-9e2e-18f51b52721f.jpg) <br>
-![img_8763](https://user-images.githubusercontent.com/22133379/26870922-60185d52-4b26-11e7-802c-844fcfd4386b.JPG) <br>
-![img_8764](https://user-images.githubusercontent.com/22133379/26870923-601b9ac6-4b26-11e7-9352-164acd010b22.JPG) <br>
-![img_8767](https://user-images.githubusercontent.com/22133379/26870930-69c11682-4b26-11e7-9f59-6054ee915e0e.JPG) <br>
-![img_8768](https://user-images.githubusercontent.com/22133379/26870929-69bfbec2-4b26-11e7-9e2c-f24703c2d1b9.JPG) <br>
-![img_8765](https://user-images.githubusercontent.com/22133379/26870937-6ece7e26-4b26-11e7-9226-eb2d1ee24295.JPG) <br>
-![img_8766](https://user-images.githubusercontent.com/22133379/26870938-6ecef23e-4b26-11e7-8d1c-4c8a697f086e.JPG) <br>
+![img_8763](https://user-images.githubusercontent.com/22133379/26871104-f1099290-4b26-11e7-88a9-aaece93fe7c0.JPG) <br>
+![img_8764](https://user-images.githubusercontent.com/22133379/26871105-f109ba4a-4b26-11e7-8811-c281fe7030e5.JPG) <br>
+![img_8765](https://user-images.githubusercontent.com/22133379/26871106-f10c53ae-4b26-11e7-9ff8-9a392fd256ee.JPG) <br>
+![img_8766](https://user-images.githubusercontent.com/22133379/26871107-f10f07de-4b26-11e7-92d8-8cb680adad81.JPG) <br>
+![img_8767](https://user-images.githubusercontent.com/22133379/26871109-f111fc8c-4b26-11e7-8bef-4690a6d010f5.JPG) <br>
+![img_8768](https://user-images.githubusercontent.com/22133379/26871108-f10f5a2c-4b26-11e7-89ea-1b7d0953932f.JPG) <br>
+![img_8769](https://user-images.githubusercontent.com/22133379/26871110-f13d99aa-4b26-11e7-85c2-04e06d1eda95.jpg) <br>
